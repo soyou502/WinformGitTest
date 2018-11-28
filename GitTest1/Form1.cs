@@ -21,5 +21,11 @@ namespace GitTest1
         {
             label1.Text = "Test1";
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("체크박스");
+        }
     }
 }
