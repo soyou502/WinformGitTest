@@ -20,6 +20,7 @@ namespace GitTest1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Test1";
+
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
