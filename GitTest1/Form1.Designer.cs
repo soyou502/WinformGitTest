@@ -6,7 +6,7 @@
         /// 필수 디자이너 변수입니다.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+//연습(풀)
         /// <summary>
         /// 사용 중인 모든 리소스를 정리합니다.
         /// </summary>
